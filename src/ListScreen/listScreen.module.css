@@ -1,0 +1,38 @@
+.container {
+    height: 500px;
+  width: 300px;
+  background-color: azure;
+  padding: 20px;
+  overflow: auto;
+}
+
+.body {
+    margin-top: 20px;
+    border-top: 1px solid gray;
+}
+
+.heading {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.plus {
+    float: right;
+}
+
+.users {
+    margin: 10px;
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid gray;
+    padding: 10px 0;
+}
+
+.right {
+    padding-left: 10px;
+}
+
+.contact {
+    font-size: small;
+    margin-top: 5px;
+}
